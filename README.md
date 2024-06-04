@@ -1,4 +1,9 @@
-# Vision Response: Empowering the Blind with Computer Vision
+
+<div align="center">
+  <h1 align="center">Vision Response: Empowering the Blind with Computer Vision</h1>  
+    <img src="https://youaskweanswer.net/wp-content/uploads/2020/08/blind-man.gif" alt="Empowering the Blind with Computer Vision" />
+    
+</div>
 
 ## Overview
 
